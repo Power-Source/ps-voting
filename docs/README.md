@@ -2,7 +2,7 @@
 
 **Miss die Beliebtheit des Inhalts Deiner Webseite, indem Du Deine Besucher oder Benutzer über diesen Inhalt abstimmen lässt. So ähnlich wie Dein persönliches Digg oder Reddit, und es steckt voller Funktionen!**
 
-[DOWNLOAD](https://github.com/cp-psource/ps-voting/releases) | [FORUM](https://github.com/cp-psource/ps-voting/discussions) | [PROBLEM-MELDEN](https://github.com/cp-psource/ps-voting/issues)
+[DOWNLOAD](https://github.com/Power-Source/ps-voting/releases) | [FORUM](https://github.com/Power-Source/ps-voting/discussions) | [PROBLEM-MELDEN](https://github.com/Power-Source/ps-voting/issues)
 
 ## About
 
